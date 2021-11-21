@@ -1,4 +1,4 @@
-### Hi there, I'm Oumayma - [Website][website] 👋
+### Hi there, I'm Omayma - [Website][website] 👋
 
 ## I'm a Full-Stack Developer and Problem Solver!!
 
@@ -43,7 +43,7 @@
 
 - [Traffic Report System 🚨, React ts ⚛ ](https://github.com/oumaymaSghayer/traffic-report-system)
 - [Ordering System 🛍️ , React js ⚛ , Redux Toolkit ⌛ ](https://github.com/oumaymaSghayer/ordering-system)
-- [Presidental Compain Problem 👨‍⚖️](https://github.com/oumaymaSghayer/presidental_compain_problem)
+- [Presidental Compain Problem 👨‍⚖️ , Python 🐍](https://github.com/oumaymaSghayer/presidental_compain_problem)
 
 ➡️ [more repos...](https://github.com/oumaymaSghayer?tab=repositories)
 
