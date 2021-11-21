@@ -43,7 +43,7 @@
 ### 📺 My Favorite Repos 👨‍💻
 
 - [Traffic Report System 🚨, React ts ⚛ ](https://github.com/oumaymaSghayer/traffic-report-system)
-- [Ordering System 🛍️ , React js ⚛ , Redux Toolkit ⌛, BEST Blog app with ](https://github.com/oumaymaSghayer/ordering-system)
+- [Ordering System 🛍️ , React js ⚛ , Redux Toolkit ⌛ ](https://github.com/oumaymaSghayer/ordering-system)
 - [Presidental Compain Problem 👨‍⚖️](https://github.com/oumaymaSghayer/presidental_compain_problem)
 
 ➡️ [more repos...](https://github.com/oumaymaSghayer?tab=repositories)
