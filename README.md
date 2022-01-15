@@ -6,6 +6,7 @@
 - 🔭 I like frontend challenges.
 - 🎮 I like building games : [TikTakToe][game]!
 - ⚡ Fun fact: You will never win that game.
+- 📰 I write articles (Occasionally 🌝). [my dev.to account](https://dev.to/oumaymasghayer).
 - 🥅 2022 Goals: Contribute to Open Source projects
 
 ### Connect with me:
